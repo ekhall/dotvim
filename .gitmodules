@@ -31,3 +31,6 @@
 [submodule "bundle/vim-turbux"]
 	path = bundle/vim-turbux
 	url = git://github.com/jgdavey/vim-turbux.git
+[submodule "bundle/vim-rubytest"]
+	path = bundle/vim-rubytest
+	url = https://github.com/janx/vim-rubytest
