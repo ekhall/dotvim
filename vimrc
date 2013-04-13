@@ -75,3 +75,10 @@ set shell=/bin/sh
 
 " Set ruby path
 	let g:ruby_path = "/Users/hall/.rvm/rubies/default/bin"
+
+" Vim Rspec
+map <Leader>t :call RunCurrentSpecFile()<CR>
+map <Leader>s :call RunNearestSpec()<CR>
+map <Leader>l :call RunLastSpec()<CR>
+
+
