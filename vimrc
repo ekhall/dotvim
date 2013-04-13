@@ -64,8 +64,8 @@ map <silent> <F8> gwap
 set shell=/bin/sh
 
 " Solarized
-	set background=dark
-	colorscheme hardcore
+	"set background=dark
+	colorscheme Tomorrow
 
 " Keep cursor 8 lines from bottom and top
 	set scrolloff=8
