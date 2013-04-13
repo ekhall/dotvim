@@ -65,7 +65,7 @@ set shell=/bin/sh
 
 " Solarized
 	set background=dark
-	colorscheme solarized
+	colorscheme hardcore
 
 " Keep cursor 8 lines from bottom and top
 	set scrolloff=8
